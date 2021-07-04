@@ -25,12 +25,6 @@
 
 <h2>Short sweet headline with 🎇🎉</h2>
 
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/TopGear-Python-Hands-On/master/images/screenshot.jpg" alt="TopGear-Python-Hands-On Demo" style="width:100%">
-  <br/>
-  <figcaption>TopGear-Python-Hands-On Screenshot</figcaption>
-</figure>
-
 </div>
 
 ## Inspiration

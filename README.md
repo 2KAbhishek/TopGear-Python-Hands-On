@@ -1,24 +1,24 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/Python-Hands-On">Python-Hands-On</a></h1>
+<h1><a href="https://2kabhishek.github.io/TopGear-Python-Hands-On">TopGear-Python-Hands-On</a></h1>
 
-<a href="https://github.com/2KAbhishek/Python-Hands-On/blob/master/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/Python-Hands-On?style=plastic&color=white&label=License"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Hands-On/blob/master/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/TopGear-Python-Hands-On?style=plastic&color=white&label=License"> </a>
 
-<a href="https://github.com/2KAbhishek/Python-Hands-On/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/Python-Hands-On?style=plastic&color=e30724&label=Updated"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Hands-On/pulse">
+<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/TopGear-Python-Hands-On?style=plastic&color=e30724&label=Updated"> </a>
 
-<a href="https://github.com/2KAbhishek/Python-Hands-On/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/Python-Hands-On?style=plastic&color=00d451&label=Stars"></a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Hands-On/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/TopGear-Python-Hands-On?style=plastic&color=00d451&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/Python-Hands-On/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/Python-Hands-On?style=plastic&color=1688f0&label=Forks"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Hands-On/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/TopGear-Python-Hands-On?style=plastic&color=1688f0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/Python-Hands-On/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/Python-Hands-On?style=plastic&color=ff5500&label=Watchers"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Hands-On/watchers">
+<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/TopGear-Python-Hands-On?style=plastic&color=ff5500&label=Watchers"> </a>
 
-<a href="https://github.com/2KAbhishek/Python-Hands-On/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/Python-Hands-On?style=plastic&color=f0f&label=Contributors"> </a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Hands-On/graphs/contributors">
+<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/TopGear-Python-Hands-On?style=plastic&color=f0f&label=Contributors"> </a>
 
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
@@ -26,20 +26,20 @@
 <h2>Short sweet headline with 🎇🎉</h2>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/Python-Hands-On/master/images/screenshot.jpg" alt="Python-Hands-On Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/TopGear-Python-Hands-On/master/images/screenshot.jpg" alt="TopGear-Python-Hands-On Demo" style="width:100%">
   <br/>
-  <figcaption>Python-Hands-On Screenshot</figcaption>
+  <figcaption>TopGear-Python-Hands-On Screenshot</figcaption>
 </figure>
 
 </div>
 
 ## Inspiration
 
-Bareminimum was inspired by `<reason/idea>`.
+TopGear-Python-Hands-On was inspired by `<reason/idea>`.
 
 ## What it does
 
-Python-Hands-On is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+TopGear-Python-Hands-On is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
@@ -47,17 +47,17 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of `<coding_language/dependency/requirement_1>`
 
-## Installing Python-Hands-On
+## Installing TopGear-Python-Hands-On
 
-To install Python-Hands-On, follow these steps:
+To install TopGear-Python-Hands-On, follow these steps:
 
 ```bash
-git clone https://github.com/2kabhishek/Python-Hands-On
-cd Python-Hands-On
+git clone https://github.com/2kabhishek/TopGear-Python-Hands-On
+cd TopGear-Python-Hands-On
 <install_command>
 ```
 
-## Using Python-Hands-On
+## Using TopGear-Python-Hands-On
 
 ```bash
 USAGE:
@@ -77,15 +77,15 @@ Example:
 
 ## How it was built
 
-Python-Hands-On was built using `<tech/library>`
+TopGear-Python-Hands-On was built using `<tech/library>`
 
 ## Challenges faced
 
-While building Python-Hands-On the main challenges were `<issue/difficulty>`
+While building TopGear-Python-Hands-On the main challenges were `<issue/difficulty>`
 
 ## What I learned
 
-While building Python-Hands-On I `<learned/accomplished>` about `<learning/accomplishment>`
+While building TopGear-Python-Hands-On I `<learned/accomplished>` about `<learning/accomplishment>`
 
 ## What's next
 
@@ -103,7 +103,7 @@ Hit the :star: button if you found this useful.
 
 <div align="center">
 
-<a href="https://github.com/2KAbhishek/Python-Hands-On">Source</a> |
-<a href="https://2kabhishek.github.io/Python-Hands-On">Website</a>
+<a href="https://github.com/2KAbhishek/TopGear-Python-Hands-On">Source</a> |
+<a href="https://2kabhishek.github.io/TopGear-Python-Hands-On">Website</a>
 
 </div>

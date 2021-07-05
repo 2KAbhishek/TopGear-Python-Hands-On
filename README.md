@@ -1,4 +1,4 @@
-<div align = "center">
+<div align="center">
 
 <h1><a href="https://2kabhishek.github.io/TopGear-Python-Hands-On">TopGear-Python-Hands-On</a></h1>
 
@@ -23,79 +23,43 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>Solutions for Python Hands On 🐍📔/h2>
 
 </div>
-
-## Inspiration
-
-TopGear-Python-Hands-On was inspired by `<reason/idea>`.
-
-## What it does
-
-TopGear-Python-Hands-On is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed latest version of `python`
 
-## Installing TopGear-Python-Hands-On
+## Get TopGear-Python-Hands-On
 
-To install TopGear-Python-Hands-On, follow these steps:
+To clone TopGear-Python-Hands-On, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/TopGear-Python-Hands-On
 cd TopGear-Python-Hands-On
-<install_command>
 ```
 
 ## Using TopGear-Python-Hands-On
 
+Use this for your reference, all code is placed under `Programs` directory, once you have any `modern web browser` installed you can edit and run these locally.
+
 ```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
+cd Programs/
+edit file.py # Edit
+python file.py # Run
 ```
 
-## How it was built
-
-TopGear-Python-Hands-On was built using `<tech/library>`
-
-## Challenges faced
-
-While building TopGear-Python-Hands-On the main challenges were `<issue/difficulty>`
-
-## What I learned
-
-While building TopGear-Python-Hands-On I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-
-Hit the :star: button if you found this useful.
+Hit the ⭐ button if you found this useful.
 
 ## More Info
 
 <div align="center">
+
+<strong>Disclaimer!</strong><br>
+These solutions have been shared for learning purposes only. <br>
 
 <a href="https://github.com/2KAbhishek/TopGear-Python-Hands-On">Source</a> |
 <a href="https://2kabhishek.github.io/TopGear-Python-Hands-On">Website</a>
